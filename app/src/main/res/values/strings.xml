@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeOrNot</string>
+    <string name="st1">Test a number(below 100001) whether prime or Composite</string>
+    <string name="st2">Enter a Number</string>
+</resources>
